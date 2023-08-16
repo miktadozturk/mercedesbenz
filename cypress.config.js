@@ -10,5 +10,6 @@ module.exports = defineConfig({
     },
     baseUrl: "https://www.mercedes-benz.co.uk/",
     includeShadowDom: true,
+    specPattern: 'cypress/e2e/**/*.{js, jsx, ts, tsx}',
   },
 });
