@@ -1,0 +1,9 @@
+{
+    "saloons"   : "Saloons",
+    "suvs"      : "SUVs",
+    "estates"   : "Estates",
+    "hatchbacks": "Hatchbacks",
+    "coupes"    : "Coupes",
+    "cabriolets": "Cabriolets",
+    "mpvs"      : "MPVs"
+  }
