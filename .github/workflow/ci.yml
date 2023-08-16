@@ -21,3 +21,4 @@ jobs:
         with: 
           browser: chrome
           version: latest
+
