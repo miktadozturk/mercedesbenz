@@ -17,6 +17,7 @@ The objective of this function is to perform automated testing on the Mercedes-B
 - Verification of models
 - Verification of car classes
 - Verification of diesel vehicles prices
+- For GitHub Action CI, Automatic run the test when the new code is pushed, automatic run the test 1 time every day in the afternoon with scheduled.
 
 ### Additional aspects:
 - The function uses the Page Object Model design pattern to interact with the mercedes-benz.co.uk website
